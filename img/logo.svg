@@ -1,11 +1,11 @@
-<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
-  <!-- Background -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 100">
+  <!-- Simple icon: wrench and hammer crossed -->
+  <circle cx="65" cy="50" r="25" fill="#0066cc"/>
   
-  <!-- Wrench Icon -->
-  <path d="M15 40 L30 25 A10 10 0 1 1 40 35 L25 50 L35 60 L20 75 A10 10 0 1 1 10 65 L25 50 Z" fill="#1A76D1" />
+  <!-- Wrench -->
+  <path d="M55 35 L75 65 M55 65 L75 35" stroke="white" stroke-width="6" stroke-linecap="round"/>
   
-  <!-- Text -->
-  <text x="80" y="60" font-family="Arial, sans-serif" font-size="30" font-weight="bold">
-    <tspan fill="#1A76D1">Shahram</tspan><tspan fill="#000000">Fix</tspan>
-  </text>
+  <!-- Company name -->
+  <text x="170" y="50" font-family="Arial, sans-serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#0066cc">FixMates</text>
+  <text x="170" y="78" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#0066cc">Toronto</text>
 </svg>

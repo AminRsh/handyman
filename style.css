@@ -9,6 +9,11 @@ body{
 	font-size:14px;
 	color:#888;
 }
+
+textarea {
+    text-transform: lowercase!important;
+}
+
 .pro-features {
 	box-shadow: #0000001a 0px 0px 10px;
 	position: fixed;
